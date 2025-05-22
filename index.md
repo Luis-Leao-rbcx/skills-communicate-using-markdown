@@ -8,3 +8,7 @@ Eu alterei esta pagina por metivos de aprendizagem.
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
